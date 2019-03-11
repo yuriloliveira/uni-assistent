@@ -72,6 +72,10 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40]
 - [Restify][30]
 - [dotenv][31]
 
+# Test URL
+
+https://1tcgxpy9jg.execute-api.us-east-1.amazonaws.com/Test
+
 [1]: https://dev.botframework.com
 [2]: https://www.typescriptlang.org
 [3]: https://www.typescriptlang.org/#download-links
